@@ -38,7 +38,7 @@ dependencies:
   flutter_local_notifications: ^9.0.0
   flutter_secure_storage: ^4.2.1
   device_apps: ^2.1.1
-  dio: ^4.0.0
+  dio: ^5.0.3
   version: ^2.0.0
   package_info: ^2.0.2
   share_extend: ^2.0.0
